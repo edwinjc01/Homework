@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class Homework {
 
-
-
-    int i = 0;
+    String str = "hej";
 }
 
